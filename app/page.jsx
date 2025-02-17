@@ -635,7 +635,7 @@ const App = ({ ffmpegRef, isServer }) => {
 								className="flex justify-center items-center gap-1.5 mt-3 py-1.5 button-secondary shiny-button"
 								onClick={() => {
 									window.open(
-										"https://discord.com/users/1198144799937675347",
+										"https://cdn.discordapp.com/attachments/1338236847784202363/1339536209751445544/Screenshot_20250213-1522002.png?ex=67b3b10f&is=67b25f8f&hm=745a51501de004115e4b62e82c1abca6224492d0d794a9be36dedd0cc1d095e3&",
 									);
 								}}
 							>
