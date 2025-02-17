@@ -635,12 +635,12 @@ const App = ({ ffmpegRef, isServer }) => {
 								className="flex justify-center items-center gap-1.5 mt-3 py-1.5 button-secondary shiny-button"
 								onClick={() => {
 									window.open(
-										"https://github.com/ItsPi3141/discord-fake-avatar-decorations",
+										"https://github.com/Supcord",
 									);
 								}}
 							>
 								<Icons.star />
-								Star on GitHub
+								GitHub
 							</button>
 							<button
 								type="button"
@@ -678,12 +678,12 @@ const App = ({ ffmpegRef, isServer }) => {
 								className="flex justify-center items-center gap-1.5 mt-3 py-1.5 button-secondary"
 								onClick={() => {
 									window.open(
-										"https://github.com/ItsPi3141/discord-fake-avatar-decorations/issues/new",
+										"https://discord.gg/asv3VdSBQJ",
 									);
 								}}
 							>
 								<Icons.bug />
-								Report a bug
+								Join Discord Server
 							</button>
 							<Link
 								className="flex justify-center items-center gap-1.5 mt-3 py-1.5 button-secondary"
@@ -698,24 +698,12 @@ const App = ({ ffmpegRef, isServer }) => {
 				<p className="mb-4 text-center text-sm text-text-muted">
 					Website made by{" "}
 					<Link
-						href={"https://github.com/ItsPi3141"}
+						href={"https://github.com/Supcord"}
 						className="link"
 						target="_blank"
 					>
-						ItsPi3141
-					</Link>
-					<br />
-					This project is open-source! View{" "}
-					<Link
-						href={
-							"https://github.com/ItsPi3141/discord-fake-avatar-decorations"
-						}
-						className="link"
-						target="_blank"
-					>
-						source code
+						Supcord
 					</Link>{" "}
-					on GitHub.
 					<br />
 					This site is NOT affiliated with Discord Inc. in any way. All images
 					and assets belong to Discord Inc.
