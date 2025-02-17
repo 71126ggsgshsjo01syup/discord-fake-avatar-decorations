@@ -635,12 +635,12 @@ const App = ({ ffmpegRef, isServer }) => {
 								className="flex justify-center items-center gap-1.5 mt-3 py-1.5 button-secondary shiny-button"
 								onClick={() => {
 									window.open(
-										"https://github.com/Supcord",
+										"https://discord.com/users/1198144799937675347",
 									);
 								}}
 							>
 								<Icons.star />
-								GitHub
+								Donate
 							</button>
 							<button
 								type="button"
@@ -678,12 +678,12 @@ const App = ({ ffmpegRef, isServer }) => {
 								className="flex justify-center items-center gap-1.5 mt-3 py-1.5 button-secondary"
 								onClick={() => {
 									window.open(
-										"https://discord.gg/asv3VdSBQJ",
+										"https://discord.com/users/1198144799937675347",
 									);
 								}}
 							>
 								<Icons.bug />
-								Join Discord Server
+								Dm Me
 							</button>
 							<Link
 								className="flex justify-center items-center gap-1.5 mt-3 py-1.5 button-secondary"
@@ -698,26 +698,16 @@ const App = ({ ffmpegRef, isServer }) => {
 				<p className="mb-4 text-center text-sm text-text-muted">
 					Website made by{" "}
 					<Link
-						href={"https://github.com/Supcord"}
+						href={"https://discord.com/users/1198144799937675347"}
 						className="link"
 						target="_blank"
 					>
-						Supcord
+						Aditya
 					</Link>{" "}
 					<br />
 					This site is NOT affiliated with Discord Inc. in any way. All images
 					and assets belong to Discord Inc.
 					<br />
-					Discord Character avatars were created by Bred and Jace. View the
-					collection on{" "}
-					<Link
-						href={
-							"https://www.figma.com/community/file/1316822758717784787/ultimate-discord-library"
-						}
-						className="link"
-						target="_blank"
-					>
-						Figma
 					</Link>
 				</p>
 			</main>
