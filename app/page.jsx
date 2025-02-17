@@ -635,12 +635,12 @@ const App = ({ ffmpegRef, isServer }) => {
 								className="flex justify-center items-center gap-1.5 mt-3 py-1.5 button-secondary shiny-button"
 								onClick={() => {
 									window.open(
-										"https://cdn.discordapp.com/attachments/1338236847784202363/1339536209751445544/Screenshot_20250213-1522002.png?ex=67b3b10f&is=67b25f8f&hm=745a51501de004115e4b62e82c1abca6224492d0d794a9be36dedd0cc1d095e3&",
+										"https://discord.com/users/1198144799937675347",
 									);
 								}}
 							>
 								<Icons.star />
-								Donate
+								Discord
 							</button>
 							<button
 								type="button"
@@ -707,6 +707,18 @@ const App = ({ ffmpegRef, isServer }) => {
 					<br />
 					This site is NOT affiliated with Discord Inc. in any way. All images
 					and assets belong to Discord Inc.
+					<br />
+					Show Some Support By Donating Some Money. View the
+			                The Litecoin Address/Qr{" "}
+					<Link
+						href={
+							"https://cdn.discordapp.com/attachments/1338236847784202363/1339536209751445544/Screenshot_20250213-1522002.png?ex=67b3b10f&is=67b25f8f&hm=745a51501de004115e4b62e82c1abca6224492d0d794a9be36dedd0cc1d095e3&"
+						}
+						className="link"
+						target="_blank"
+					>
+						Donation
+					</Link>
 				</p>
 			</main>
 			<Modal
