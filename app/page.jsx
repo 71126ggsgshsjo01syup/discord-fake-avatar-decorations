@@ -709,10 +709,10 @@ const App = ({ ffmpegRef, isServer }) => {
 					and assets belong to Discord Inc.
 					<br />
 					Show Some Support By Donating Some Money. View the
-			                The Litecoin Address/Qr{" "}
+			                Some Support Will Help Us To Grow{" "}
 					<Link
 						href={
-							"https://cdn.discordapp.com/attachments/1338236847784202363/1339536209751445544/Screenshot_20250213-1522002.png?ex=67b3b10f&is=67b25f8f&hm=745a51501de004115e4b62e82c1abca6224492d0d794a9be36dedd0cc1d095e3&"
+							"https://commerce.coinbase.com/checkout/d67960e9-f35a-4d7b-845f-706f7935d1aa"
 						}
 						className="link"
 						target="_blank"
