@@ -708,7 +708,7 @@ const App = ({ ffmpegRef, isServer }) => {
 					This site is NOT affiliated with Discord Inc. in any way. All images
 					and assets belong to Discord Inc.
 					<br />
-					Show Some Support By Donating Some Money. View the
+					Show Some Support By Donating Some Money.
 			                Some Support Will Help Us To Grow{" "}
 					<Link
 						href={
